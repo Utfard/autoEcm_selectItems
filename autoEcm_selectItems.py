@@ -10,8 +10,8 @@ from time import sleep
 #########################################
 ##### Fill in INTRANET credentials ######
 #########################################
-user = "adrian.lepadatu"
-password = "MurbucicA9333"
+user = "user.name"
+password = "password"
 #########################################
 browser = webdriver.Firefox()
 browser.implicitly_wait(120)
